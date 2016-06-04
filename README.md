@@ -17,8 +17,11 @@ And install all the npm dependencies: `npm install express mongoose passport pas
 https://futurestud.io/blog/how-to-build-nodegyp-to-run-bcrypt-on-windows
 
 ## Run
+Go to the mongodb directory and run `mongod.exe`
 
 Go to the api folder and run the node.js server: `node app.js`
+
+Go to the app folder and run `python -m SimpleHTTPServer 80`
 
 Then, open your browser on `http://localhost/path/app/`
 
