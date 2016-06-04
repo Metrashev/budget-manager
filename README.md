@@ -14,6 +14,8 @@ Then, go inside the api folder: `cd api`
 
 And install all the npm dependencies: `npm install express mongoose passport passport-local bcrypt`
 
+https://futurestud.io/blog/how-to-build-nodegyp-to-run-bcrypt-on-windows
+
 ## Run
 
 Go to the api folder and run the node.js server: `node app.js`
