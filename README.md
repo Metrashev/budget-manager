@@ -1,7 +1,5 @@
 # Budget Manager
 
-![][screenshot-detail]
-
 ## Description
 
 Budget Manager is a simple web application based on AngularJS and Bootstrap for the frontend, and Node.js with MongoDB for the backend.
